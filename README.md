@@ -1,6 +1,6 @@
 
 
-<p align="center"><a href="https://portappzmod.github.io/" target="_blank"><img width="100" src="https://github.com/portappzmod/portappzmod.github.io/blob/master/img/Rep_Banner0.png"></a></p>
+<p align="center"><a href="https://portappzmod.github.io/" target="_blank"><img width="960" src="https://github.com/portappzmod/portappzmod.github.io/blob/master/img/Rep_Banner0.png"></a></p>
 
 <p align="center">
 	<a href="https://portappzmod.github.io/"><img alt="build" src="https://img.shields.io/badge/build-passing-brightgreen.svg"></a>

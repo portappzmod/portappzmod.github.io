@@ -18,7 +18,7 @@ it's a wrapper that includes system records within the same directory to make th
 You will carry the program with settings on removable drive and don't modify settings on host computer. Now your favorite application on a USB stick.<br />
 
 
-## Portapps available
+## Portable Apps available
 
 * [Internet Download Manager (IDM)](https://github.com/portappzmod/InternetDownloadManager/) : A tool to increase download speeds by up to 5 times, resume and schedule downloads.
 * [Dr Folder](https://github.com/portappzmod/DrFolder/) : A software that search and replace the standard icon of a folder on any other icon.

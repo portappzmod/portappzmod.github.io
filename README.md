@@ -14,8 +14,7 @@
 
 **PoRTAPPzMOd** is a collection of portable apps for Windows. Each portable app has a single EXE `[appname]-portable.exe` written in [PAF/CMD/VB/Python] to make it portable.<br />
 
-it's a wrapper that includes system records within the same directory to make the application portable. This will allow you on any Windows computer without installation.<br />
-You will carry the program with settings on removable drive and don't modify settings on host computer. Now your favorite application on a USB stick.<br />
+it's a wrapper that includes system records within the same directory to make the application portable. This will allow you on any Windows computer without installation.You will carry the program with settings on removable drive and don't modify settings on host computer. Now your favorite application on a USB stick.<br />
 
 
 ## Portapps available

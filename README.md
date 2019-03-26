@@ -19,15 +19,15 @@ it's a wrapper that includes system records within the same directory to make th
 
 ## Portable Apps available
 
-* [Internet Download Manager (IDM)](https://github.com/portappzmod/InternetDownloadManager/) : A tool to increase download speeds by up to 5 times, resume and schedule downloads.
-* [Dr Folder](https://github.com/portappzmod/DrFolder/) : A software that search and replace the standard icon of a folder on any other icon.
-* [Zentimo](https://github.com/portappzmod/Zentimo/) : A new way to manage your USB & eSATA devices.
-* [Multimedia Builder](https://github.com/portappzmod/MultimediaBuilder/) : A awesome multimedia authoring tool that allows you to create a number of different applications.
-* [Textaizer Pro](https://github.com/portappzmod/TextaizerPro/) : A tool creates text mosaics and text art and much more.
-* [MediaHuman YouTube To MP3 Converter](https://github.com/portappzmod/MediaHumanYouTubeToMP3Converter/) : You like to listen to music on YouTube or SoundCloud and want to save it for offline playing.
-* [EasyVideo Logo Remover](https://github.com/portappzmod/EasyVideoLogoRemover/) : A simple tool that removing watermark insertions, such as logos, signatures or subtitles from Videos.
-* [Attribute Changer](https://github.com/portappzmod/AttributeChanger/) : A powerful Windows Explorer add-on, available at your fingertips whenever you right-click on folders, files and even drives within Windows Explorer.
-* [VirusTotal Uploader](https://github.com/portappzmod/VirusTotalUploader/) : A scan files with VirusTotal straightaway with a right-click, it also inspects running processes and allows URL submissions.
+* [Internet Download Manager (IDM)](https://github.com/portappzmod/InternetDownloadManager_Portable/) : A tool to increase download speeds by up to 5 times, resume and schedule downloads.
+* [Dr Folder](https://github.com/portappzmod/DrFolder_Portable/) : A software that search and replace the standard icon of a folder on any other icon.
+* [Zentimo](https://github.com/portappzmod/Zentimo_Portable/) : A new way to manage your USB & eSATA devices.
+* [Multimedia Builder (MMB)](https://github.com/portappzmod/MultimediaBuilderMMB_Portable/) : A awesome multimedia authoring tool that allows you to create a number of different applications.
+* [Textaizer Pro](https://github.com/portappzmod/TextaizerPro_Portable/) : A tool creates text mosaics and text art and much more.
+* [MediaHuman YouTube To MP3 Converter](https://github.com/portappzmod/MediaHumanYouTubeToMP3Converter_Portable/) : You like to listen to music on YouTube or SoundCloud and want to save it for offline playing.
+* [EasyVideo Logo Remover](https://github.com/portappzmod/EasyVideoLogoRemover_Portable/) : A simple tool that removing watermark insertions, such as logos, signatures or subtitles from Videos.
+* [Attribute Changer](https://github.com/portappzmod/AttributeChanger_Portable/) : A powerful Windows Explorer add-on, available at your fingertips whenever you right-click on folders, files and even drives within Windows Explorer.
+* [VirusTotal Uploader](https://github.com/portappzmod/VirusTotalUploader_Portable/) : A scan files with VirusTotal straightaway with a right-click, it also inspects running processes and allows URL submissions.
 
 
 ## Documentation
